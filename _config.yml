@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               PitikaTech
+tagline:             'technology blog'
+description:         ''
+url:                 
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Serhat Durmaz
+  url:               https://www.pitikatech.com
+  email:             serhat.md@gmail.com
+
+# Custom vars
+version:             1.0.0
